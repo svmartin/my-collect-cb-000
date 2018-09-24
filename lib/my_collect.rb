@@ -11,4 +11,4 @@ def my_collect(array)
   collection
 end
 
-p my_collection([1, 2, 3, 4,5]) { |num| num**2 }
+p my_collect([1, 2, 3, 4,5]) { |num| num**2 }
