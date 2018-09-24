@@ -10,3 +10,5 @@ def my_collect(array)
   end
   collection
 end
+
+p my_collection([1, 2, 3, 4,5]) { |num| num**2 }
